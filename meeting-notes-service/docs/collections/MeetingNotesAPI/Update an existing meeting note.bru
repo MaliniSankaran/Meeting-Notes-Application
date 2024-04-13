@@ -1,0 +1,18 @@
+meta {
+  name: Update an existing meeting note
+  type: http
+  seq: 5
+}
+
+patch {
+  url: http://localhost:3000/meetingnotes/66047bb54f05000651441161
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "title": "Upcoming Training Workshops"
+  
+  }
+}

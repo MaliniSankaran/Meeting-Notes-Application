@@ -1,0 +1,17 @@
+meta {
+  name: Filter notes using keywords
+  type: http
+  seq: 6
+}
+
+get {
+  url: http://localhost:3000/meetingnotes/filter?keywords=client&startDate=2022-06-20T14:00:00.000Z&startDate=2022-07-05T14:00:00.000Z
+  body: none
+  auth: none
+}
+
+query {
+  keywords: client
+  startDate: 2022-06-20T14:00:00.000Z
+  startDate: 2022-07-05T14:00:00.000Z
+}
