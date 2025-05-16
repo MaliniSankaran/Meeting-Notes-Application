@@ -1,6 +1,8 @@
 # React Reminder App
 
-This project involves converting Assignment 6 into a React application using Vite as the build tool and integrating it with REST APIs from Assignment 7. The application will serve as a reminder app where users can create, view, edit, and delete meeting notes.
+The React Reminder App is a full-stack web application that helps users efficiently manage meeting notes and action items. Users can create, view, edit, and organize notes, as well as track the completion status of individual tasks. Built with a modern tech stack—React.js, Node.js, and MongoDB—this app ensures a smooth user experience, fast performance, and reliable data persistence.
+
+The frontend leverages React with Vite for optimal development speed and interactivity, while Material UI enhances the visual design. All user interactions, including creating or updating notes, are backed by robust REST APIs, ensuring real-time updates and secure database operations.
 
 ## User Requirements:
 - The application should allow users to view existing meeting notes fetched from the server.
