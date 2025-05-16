@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/g07vwLwr)
-
 # React Reminder App
 
 This project involves converting Assignment 6 into a React application using Vite as the build tool and integrating it with REST APIs from Assignment 7. The application will serve as a reminder app where users can create, view, edit, and delete meeting notes.
