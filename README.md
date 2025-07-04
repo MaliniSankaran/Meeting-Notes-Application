@@ -22,8 +22,10 @@ A full-stack web application for creating, managing, and tracking meeting notes 
 
 ## Project Structure
 
-`/meeting-notes-app # Frontend (React + Vite)
-/meeting-notes-service # Backend (Node.js + Express + MongoDB)`
+   ```
+   /meeting-notes-app # Frontend (React + Vite)
+   /meeting-notes-service # Backend (Node.js + Express + MongoDB)
+   ```
 
 
 ## Getting Started
@@ -36,9 +38,10 @@ A full-stack web application for creating, managing, and tracking meeting notes 
 
 ### 1. Clone the Repository
 
-`git clone https://github.com/MaliniSankaran/Meeting-Notes-Application.git
-cd Meeting-Notes-Application`
-
+   ```
+   git clone https://github.com/MaliniSankaran/Meeting-Notes-Application.git
+   cd Meeting-Notes-Application
+   ```
 
 ### 2. Backend Setup (`meeting-notes-service`)
 
